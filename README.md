@@ -63,7 +63,7 @@ Portia AI is a cutting-edge educational AI platform that combines advanced natur
 - Real-time performance metrics
 
 ## 🔗 Live Demo
-Experience Portia AI live: [Portia AI](https://homiey.vercel.app/)
+Experience Portia AI live: [Portia AI]
 
 ## 🛠 Tech Stack
 
