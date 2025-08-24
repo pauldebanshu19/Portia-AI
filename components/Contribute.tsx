@@ -427,7 +427,7 @@ export default function Contribute() {
             This project is open-sourced. Have fun with it, and don&apos;t <br/> forget to share it. :)
           </p>
           <div className="flex justify-center md:justify-start mt-4">
-            <Link href="https://github.com/Debanjannnn/google_solution" className="group">
+            <Link href="https://github.com/pauldebanshu19/Portia-AI" className="group">
               <div className="p-[3px] relative cursor-pointer">
                 <div className="absolute inset-0 bg-gradient-to-r from-indigo-500 to-purple-500 rounded-full" />
                 <div className="px-8 py-2 bg-black dark:bg-white rounded-full relative group-hover:bg-transparent transition duration-200 text-white dark:text-black group-hover:text-black dark:group-hover:text-white flex items-center space-x-2">
